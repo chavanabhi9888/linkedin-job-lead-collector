@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Hiring Python Developer",
+    "Hiring Django Developer",
+    "Hiring FastAPI Developer",
+    "Hiring Backend Developer"
+  ],
+  "locations": ["Pune", "Mumbai", "Bangalore"],
+  "time_filter": "past_24h",
+  "max_posts": 160,
+  "cooldown_min_s": 90,
+  "cooldown_max_s": 180,
+  "stop_after_consecutive_failures": 3,
+  "skip_if_succeeded_within_hours": 0,
+  "export_scope": "new",
+  "export_require_contact": false,
+  "export_dir": "exports"
+}
